@@ -17,7 +17,7 @@
 
 # UN1CA configuration file for Snapdragon devices (qssi)
 
-# Galaxy S23 (One UI 7.0)
+# Galaxy S23 (One UI 8.5)
 SOURCE_FIRMWARE="SM-S916B/XTC/350373341234562"
 SOURCE_EXTRA_FIRMWARES=()
 SOURCE_API_LEVEL=36
